@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/StringPrac/src/methods3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringPrac/src/regExp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/JAVA HACKERRANK&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.methods3">
+  <component name="RunManager" selected="Application.regExp">
     <configuration name="javaPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaPool" />
       <module name="StringPrac" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringPractice" />
+    <configuration name="regExp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="regExp" />
       <module name="StringPrac" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.regExp" />
         <item itemvalue="Application.methods3" />
         <item itemvalue="Application.methods2" />
         <item itemvalue="Application.methods1" />
         <item itemvalue="Application.javaPool" />
-        <item itemvalue="Application.stringPractice" />
       </list>
     </recent_temporary>
   </component>
