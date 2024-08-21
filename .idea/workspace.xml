@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Relational/src/leapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,9 +37,16 @@
     &quot;last_opened_file_path&quot;: &quot;D:/JAVA HACKERRANK&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.leapYear">
+  <component name="RunManager" selected="Application.dayNumber">
     <configuration name="Grades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Grades" />
+      <module name="Relational" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dayNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dayNumber" />
       <module name="Relational" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,13 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oddEven" />
-      <module name="Relational" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="youngOrNotYoung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="youngOrNotYoung" />
       <module name="Relational" />
@@ -78,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.dayNumber" />
         <item itemvalue="Application.leapYear" />
         <item itemvalue="Application.findRadix" />
         <item itemvalue="Application.Grades" />
         <item itemvalue="Application.youngOrNotYoung" />
-        <item itemvalue="Application.oddEven" />
       </list>
     </recent_temporary>
   </component>
