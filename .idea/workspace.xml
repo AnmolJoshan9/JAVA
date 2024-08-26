@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Relational/src/typeOfWebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Relational/src/menuDriven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +40,16 @@
     &quot;last_opened_file_path&quot;: &quot;D:/JAVA HACKERRANK&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.typeOfWebsite">
+  <component name="RunManager" selected="Application.menuDriven">
     <configuration name="dayNumberWithSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dayNumberWithSwitch" />
+      <module name="Relational" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="menuDriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="menuDriven" />
       <module name="Relational" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="websiteProtocol" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="websiteProtocol" />
-      <module name="Relational" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.menuDriven" />
         <item itemvalue="Application.typeOfWebsite" />
         <item itemvalue="Application.monthNumberWithSwitch" />
         <item itemvalue="Application.dayNumberWithSwitch" />
         <item itemvalue="Application.practiceSwitch" />
-        <item itemvalue="Application.websiteProtocol" />
       </list>
     </recent_temporary>
   </component>
