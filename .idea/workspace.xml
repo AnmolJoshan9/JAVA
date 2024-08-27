@@ -39,9 +39,16 @@
     &quot;last_opened_file_path&quot;: &quot;D:/JAVA HACKERRANK&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.menuDriven">
+  <component name="RunManager" selected="Application.main2">
     <configuration name="dayNumberWithSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dayNumberWithSwitch" />
+      <module name="Relational" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main2" />
       <module name="Relational" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,13 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="practiceSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practiceSwitch" />
-      <module name="Relational" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="typeOfWebsite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="typeOfWebsite" />
       <module name="Relational" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main2" />
         <item itemvalue="Application.menuDriven" />
         <item itemvalue="Application.typeOfWebsite" />
         <item itemvalue="Application.monthNumberWithSwitch" />
         <item itemvalue="Application.dayNumberWithSwitch" />
-        <item itemvalue="Application.practiceSwitch" />
       </list>
     </recent_temporary>
   </component>
