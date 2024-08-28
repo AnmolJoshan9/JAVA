@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Loops/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Loops/src/whileLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/src/forLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Relational/src/main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Relational/src/main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.whileLoop">
+  <component name="RunManager" selected="Application.forLoop">
+    <configuration name="forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forLoop" />
+      <module name="Loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main2" />
       <module name="Relational" />
@@ -54,13 +58,6 @@
     </configuration>
     <configuration name="menuDriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="menuDriven" />
-      <module name="Relational" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="monthNumberWithSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="monthNumberWithSwitch" />
       <module name="Relational" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.forLoop" />
         <item itemvalue="Application.whileLoop" />
         <item itemvalue="Application.main2" />
         <item itemvalue="Application.menuDriven" />
         <item itemvalue="Application.typeOfWebsite" />
-        <item itemvalue="Application.monthNumberWithSwitch" />
       </list>
     </recent_temporary>
   </component>
