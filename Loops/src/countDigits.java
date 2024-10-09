@@ -1,20 +1,18 @@
 import java.util.Scanner;
 
-public class displayDigits {
+public class countDigits {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number");
+
         int n = sc.nextInt();
+        int count = 0;
 
-        int r;
-
-        while (n > 0)
-        {
-            r = n%10;
+        while(n > 0){
             n = n/10;
-
-            System.out.println(r);
+            count++;
         }
-        System.out.println(n);
+        System.out.println(count);
+
     }
 }
