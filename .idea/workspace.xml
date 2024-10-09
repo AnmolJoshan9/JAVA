@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Loops/src/forLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.forLoop">
+  <component name="RunManager" selected="Application.multiplicationTable">
     <configuration name="forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="forLoop" />
       <module name="Loops" />
@@ -63,9 +62,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="typeOfWebsite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="typeOfWebsite" />
-      <module name="Relational" />
+    <configuration name="multiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="multiplicationTable" />
+      <module name="Loops" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.multiplicationTable" />
         <item itemvalue="Application.forLoop" />
         <item itemvalue="Application.whileLoop" />
         <item itemvalue="Application.main2" />
         <item itemvalue="Application.menuDriven" />
-        <item itemvalue="Application.typeOfWebsite" />
       </list>
     </recent_temporary>
   </component>
