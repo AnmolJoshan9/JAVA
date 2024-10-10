@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Loops/src/displayDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loops/src/displayDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.countDigits">
+  <component name="RunManager" selected="Application.armstrongNumber">
+    <configuration name="armstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="armstrongNumber" />
+      <module name="Loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="countDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="countDigits" />
       <module name="Loops" />
@@ -62,13 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiplicationTable" />
-      <module name="Loops" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="sumOfNNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sumOfNNumbers" />
       <module name="Loops" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.armstrongNumber" />
         <item itemvalue="Application.countDigits" />
         <item itemvalue="Application.displayDigits" />
         <item itemvalue="Application.factorial" />
         <item itemvalue="Application.sumOfNNumbers" />
-        <item itemvalue="Application.multiplicationTable" />
       </list>
     </recent_temporary>
   </component>
