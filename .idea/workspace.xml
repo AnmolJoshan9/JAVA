@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Loops/src/gpSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +40,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.gpSeries">
+  <component name="RunManager" selected="Application.fibonacciSeries">
     <configuration name="apSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="apSeries" />
+      <module name="Loops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibonacciSeries" />
       <module name="Loops" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,20 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="reverseNumber" />
-      <module name="Loops" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacciSeries" />
         <item itemvalue="Application.gpSeries" />
         <item itemvalue="Application.apSeries" />
         <item itemvalue="Application.numberWithWords" />
         <item itemvalue="Application.palindromeNumber" />
-        <item itemvalue="Application.reverseNumber" />
       </list>
     </recent_temporary>
   </component>
