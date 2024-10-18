@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/BitwiseDemo/BitwiseDemo.iml" filepath="$PROJECT_DIR$/BitwiseDemo/BitwiseDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Loops/NestedLoops/NestedLoops.iml" filepath="$PROJECT_DIR$/Loops/NestedLoops/NestedLoops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Operators/Operators.iml" filepath="$PROJECT_DIR$/Operators/Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Printing/Printing.iml" filepath="$PROJECT_DIR$/Printing/Printing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Relational/Relational.iml" filepath="$PROJECT_DIR$/Relational/Relational.iml" />
