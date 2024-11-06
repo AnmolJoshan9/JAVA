@@ -9,6 +9,7 @@ public class pattern6 {
                 System.out.print(count + " ");
             }
             System.out.println("");
+//            System.out.println("llll");
         }
     }
 }

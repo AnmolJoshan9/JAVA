@@ -17,6 +17,5 @@ public class fibonacciSeries {
             a = b;
             b = c;
         }
-
     }
 }
