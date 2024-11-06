@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/NestedLoops/src/pattern9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Loops/NestedLoops/src/pattern9.java" afterDir="false" />
-    </list>
+    <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.pattern6.executor": "Run",
+    "Application.pattern9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -50,9 +48,9 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.pattern9">
-    <configuration name="pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern5" />
+  <component name="RunManager" selected="Application.pattern10">
+    <configuration name="pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern10" />
       <module name="NestedLoops" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern10" />
         <item itemvalue="Application.pattern9" />
         <item itemvalue="Application.pattern6" />
         <item itemvalue="Application.pattern7" />
         <item itemvalue="Application.pattern8" />
-        <item itemvalue="Application.pattern5" />
       </list>
     </recent_temporary>
   </component>
