@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/arrayPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/arrayPractice1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/sumOfElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +42,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.arrayPractice.executor": "Run",
+    "Application.arrayPractice1.executor": "Run",
     "Application.pattern10.executor": "Run",
     "Application.pattern6.executor": "Run",
     "Application.pattern9.executor": "Run",
@@ -57,7 +57,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.arrayPractice">
+  <component name="RunManager" selected="Application.sumOfElements">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Arrays" />
@@ -72,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="arrayPractice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayPractice1" />
+      <module name="Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern10" />
       <module name="NestedLoops" />
@@ -79,27 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern6" />
-      <module name="NestedLoops" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern9" />
-      <module name="NestedLoops" />
+    <configuration name="sumOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumOfElements" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sumOfElements" />
+        <item itemvalue="Application.arrayPractice1" />
         <item itemvalue="Application.arrayPractice" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.pattern10" />
-        <item itemvalue="Application.pattern9" />
-        <item itemvalue="Application.pattern6" />
       </list>
     </recent_temporary>
   </component>
