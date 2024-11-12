@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/src/arrayPractice1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/src/sumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/src/searchingAnElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,6 +45,7 @@
     "Application.pattern10.executor": "Run",
     "Application.pattern6.executor": "Run",
     "Application.pattern9.executor": "Run",
+    "Application.sumOfElements.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -57,7 +57,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.sumOfElements">
+  <component name="RunManager" selected="Application.searchingAnElement">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Arrays" />
@@ -79,9 +79,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="pattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern10" />
-      <module name="NestedLoops" />
+    <configuration name="searchingAnElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchingAnElement" />
+      <module name="Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.searchingAnElement" />
         <item itemvalue="Application.sumOfElements" />
         <item itemvalue="Application.arrayPractice1" />
         <item itemvalue="Application.arrayPractice" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.pattern10" />
       </list>
     </recent_temporary>
   </component>
