@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cef7f3a-a09d-475b-9c6e-9b36b05996b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Oops/src/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oops/src/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +40,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.RectangleTest (1).executor": "Run",
+    "Application.RectangleTest.executor": "Run",
+    "Application.StudentTest.executor": "Run",
     "Application.arrayPractice.executor": "Run",
     "Application.arrayPractice1.executor": "Run",
     "Application.circle (1).executor": "Run",
@@ -63,7 +66,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.RectangleTest (1)">
+  <component name="RunManager" selected="Application.StudentTest">
     <configuration name="RectangleTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RectangleTest" />
       <module name="Oops" />
@@ -73,6 +76,13 @@
     </configuration>
     <configuration name="RectangleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RectangleTest" />
+      <module name="Oops" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudentTest" />
       <module name="Oops" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,20 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maximumElement2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maximumElement2" />
-      <module name="Arrays" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest" />
         <item itemvalue="Application.RectangleTest (1)" />
         <item itemvalue="Application.RectangleTest" />
         <item itemvalue="Application.circle" />
         <item itemvalue="Application.circle (1)" />
-        <item itemvalue="Application.maximumElement2" />
       </list>
     </recent_temporary>
   </component>
